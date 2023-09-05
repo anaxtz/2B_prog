@@ -2,9 +2,13 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: 'DM Serif Display', serif;
+font-family: 'Lobster Two', cursive;
 
+}
 .cabecalho {
-    background-color: #f12558;
+    background-color: #f22659;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -27,7 +31,7 @@
 }
 
 .escola{
-    background-image: linear-gradient(#337eff,#ff74ff);
+    background-image: linear-gradient(#f22659,#ffffff);
     color:white;
     display: flex;
     justify-content: center;
